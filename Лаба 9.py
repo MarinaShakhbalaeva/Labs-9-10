@@ -10,7 +10,6 @@ def task1():
     print(f"Формат: {image.format}")
     print(f"Ширина x высота: {image.size}")
 
-
 #9.2
 def task2():
     image = Image.open('Кот.jpg')
